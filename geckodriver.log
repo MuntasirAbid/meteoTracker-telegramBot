@@ -1,0 +1,233 @@
+1680912448417	geckodriver	INFO	Listening on 127.0.0.1:49779
+1680912451491	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofileLkAY1A"
+*** You are running in headless mode.
+1680912453415	Marionette	INFO	Enabled via --marionette
+1680912455810	Marionette	INFO	Listening on port 49788
+1680912455881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680912456799	geckodriver	INFO	Listening on 127.0.0.1:49809
+1680913549002	geckodriver	INFO	Listening on 127.0.0.1:49905
+1680913552056	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofilek21bPx"
+*** You are running in headless mode.
+1680913553146	geckodriver	INFO	Listening on 127.0.0.1:491680913554510	Marionette	INFO	Listening on port 49911
+1680913554717	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680913682887	geckodriver	INFO	Listening on 127.0.0.1:49952
+1680913685961	mozrunner::runner	INFO	Running command: "C:\\P1680913688796	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 8" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofilehvUV12"
+*** You are running in headless mode.
+1680913689945	Marionette	INFO	Enabled via --marionette
+1680913692030	Marionette	INFO	Listening on port 49981
+ ignored for this session
+[Child 7580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1680914042464	geckodriver	INFO	Listening on 127.0.0.1:50053
+1680914045524	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofile00Gltc"
+*** You are running in headless mode.
+1680914046226	Marionette	INFO	Enabled via --marionette
+1680914047841	Marionette	INFO	Listening on port 50059
+1680914105337	geckodriver	INFO	Listening on 127.0.0.1:50085
+1680914108396	mozrunner::runner	INFO	Running command: "C:\\P1680914110141	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofileDmPtMs"
+*** You are running in headless mod16801680914111667	Marionette	INFO	Enabled via --marionette
+1680914113439	Marionette	INFO	Listening on port 50103
+1680914113869	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/i[Parent 14544, Gecko_IOThread] WARNING: pipe error: 109: fil[Parent 16512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18008, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16512, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1680914134398	geckodriver	INFO	Listening on 127.0.0.1:50213
+1680914137450	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofileoIqued"
+*** You are running in headless mode.
+1680914138236	Marionette	INFO	Enabled via --marionette
+1680914139575	Marionette	INFO	Listening on port 50219
+1680914139622	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16580, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17900, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1680914245835	geckodriver	INFO	Listening on 127.0.0.1:50278
+1680914248896	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 9" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofileo9xu1I"
+*** You are running in headless mode.
+1680914249519	Marionette	INFO	Enabled via --marionette
+1680914250961	Marionette	INFO	Listening on port 50285
+1680914251064	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1680914256770	geckodriver	INFO	Listening on 127.0.0.1:50335
+1680914259826	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofilevjMxzN"
+*** You are running in headless mode.
+1680914260503	Marionette	INFO	Enabled via --marionette
+1680914262203	Marionette	INFO	Listening on port 50344
+1680914262486	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6368, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16928, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1680914348782	geckodriver	INFO	Listening on 127.0.0.1:50406
+1680914351848	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofileRJAzU0"
+*** You are running in headless mode.
+1680914352501	Marionette	INFO	Enabled via --marionette
+1680914353934	Marionette	INFO	Listening on port 50412
+1680914354000	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1680914436843	geckodriver	INFO	Listening on 127.0.0.1:50470
+1680914439898	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofileMudsEY"
+*** You are running in headless mode.
+1680914440550	Marionette	INFO	Enabled via --marionette
+1680914441991	Marionette	INFO	Listening on port 50476
+1680914442063	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 18356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17164, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1680915341755	geckodriver	INFO	Listening on 127.0.0.1:50840
+1680915344830	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofile7RcPR0"
+*** You are running in headless mode.
+1680915345781	Marionette	INFO	Enabled via --marionette
+1680915347216	Marionette	INFO	Listening on port 50846
+1680915347489	Marionette	WARN	TLS certificate errors will be ignored for this session
+1680915352447	geckodriver	INFO	Listening on 127.0.0.1:50896
+1680915355491	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofileBfxi7c"
+*** You are running in headless mode.
+1680915356346	Marionette	INFO	Enabled via --marionette
+1680915357830	Marionette	INFO	Listening on port 50908
+1680915358160	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+ildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1680915500149	geckodriver	INFO	Listening on 127.0.0.1:50973
+1680915503217	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 4" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofilel1G5pd"
+*** You are running in headless mode.
+1680915504029	Marionette	INFO	Enabled via --marionette
+1680915505443	Marionette	INFO	Listening on port 50979
+1680915505883	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18968, Chrome_ChildThread] WARNING: pipe error: 109: 1680915512449	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofileswIcqi"
+*** You are running in headless mode.
+1680915513076	Marionette	INFO	Enabled via --marionette
+1680915514447	Marionette	INFO	Listening on port 51038
+1680915514506	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+merManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1680916678003	geckodriver	INFO	Listening on 127.0.0.1:51169
+1680916681058	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofilezuRPRt"
+*** You are running in headless mode.
+1680916681757	Marionette	INFO	Enabled via --marionette
+1680916683159	Marionette	INFO	Listening on port 51175
+1680916683237	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 17768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1680916755195	geckodriver	INFO	Listening on 127.0.0.1:51239
+1680916758261	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofilea7QsZO"
+*** You are running in headless mode.
+1680916758867	Marionette	INFO	Enabled via --marionette
+1680916760282	Marionette	INFO	Listening on port 51245
+1680916760316	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5920, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1680964586585	geckodriver	INFO	Listening on 127.0.0.1:63919
+1680964589659	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofileLh0giL"
+*** You are running in headless mode.
+1680964590667	Marionette	INFO	Enabled via --marionette
+1680964592307	Marionette	INFO	Listening on port 63925
+1680964592330	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 16324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 17400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1680964994616	geckodriver	INFO	Listening on 127.0.0.1:64021
+1680964997684	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofileSqCIeE"
+*** You are running in headless mode.
+1680964998567	Marionette	INFO	Enabled via --marionette
+1680964999995	Marionette	INFO	Listening on port 64027
+1680965000359	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 9188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1680965052772	geckodriver	INFO	Listening on 127.0.0.1:64094
+1680965055809	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 5" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofileQqIYCG"
+*** You are running in headless mode.
+1680965056630	Marionette	INFO	Enabled via --marionette
+1680965058083	Marionette	INFO	Listening on port 64100
+1680965058467	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 12036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6276, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 12036, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15144, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1681180130798	geckodriver	INFO	Listening on 127.0.0.1:54285
+1681180133860	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofiledKz5At"
+*** You are running in headless mode.
+1681180135190	Marionette	INFO	Enabled via --marionette
+1681180136996	Marionette	INFO	Listening on port 54292
+1681180137058	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13612, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1681383782572	geckodriver	INFO	Listening on 127.0.0.1:61209
+1681383785644	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 0" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofileYJrwnm"
+*** You are running in headless mode.
+1681383787927	Marionette	INFO	Enabled via --marionette
+1681383793970	Marionette	INFO	Listening on port 61216
+1681383794274	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 13832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13832, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1604, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16192, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1682361137196	geckodriver	INFO	Listening on 127.0.0.1:53872
+1682361140266	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\dagna\\AppData\\Local\\Temp\\rust_mozprofileGDzgLD"
+*** You are running in headless mode.
+1682361141500	Marionette	INFO	Enabled via --marionette
+1682361143317	Marionette	INFO	Listening on port 53879
+1682361143505	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
